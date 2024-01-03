@@ -1,5 +1,9 @@
 # PF_GOOGLE_YELP
 
+<p align="center">
+  <img src="./assets/logo.jpg" alt="Descripción de la imagen" width="600" height="600">
+</p>
+
 ## Objetivos
 
 1. Identificar las categorías de hoteles con potencial de mayor y menor crecimiento a través del análisis de opiniones en plataformas como Yelp y Google Maps
@@ -31,7 +35,11 @@ En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología
 
 ### Estimación de Tiempos
 
-Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 20 de del mismo mes.
+<p align="center">
+  <img src="./assets/gant.jpg" alt="Descripción de la imagen" width="400" height="400">
+</p>
+
+Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 20 del mismo mes.
 Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 
 ### Roles del Equipo
