@@ -35,8 +35,22 @@ En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología
 
 ### Estimación de Tiempos
 
+#### Sprint 1
+
 <p align="center">
-  <img src="./assets/gant.jpg" alt="Descripción de la imagen" width="400" height="400">
+  <img src="./assets/gant1.jpg" alt="Descripción de la imagen" width="500" height="300">
+</p>
+
+#### Sprint 2
+
+<p align="center">
+  <img src="./assets/gan2.jpg" alt="Descripción de la imagen" width="500" height="300">
+</p>
+
+#### Sprint 3
+
+<p align="center">
+  <img src="./assets/gant3.jpg" alt="Descripción de la imagen" width="500" height="300">
 </p>
 
 Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 20 del mismo mes.
