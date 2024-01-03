@@ -4,6 +4,15 @@
   <img src="./assets/logo.jpg" alt="Descripción de la imagen" width="600" height="600">
 </p>
 
+### Nuestro equipo
+Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAM , estamos comprometidos con el éxito de nuestros clientes. 
+
++ []() -  Data Engineer
++ []() - Data Analyst
++ []() - Data Scientist
++ []() - Data Engineer
++ []() - Data Scientist
+  
 ## Objetivos
 
 1. Identificar las categorías de hoteles con potencial de mayor y menor crecimiento a través del análisis de opiniones en plataformas como Yelp y Google Maps
