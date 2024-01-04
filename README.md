@@ -60,10 +60,10 @@ Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 
 Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAM DATA CORPORATION, estamos comprometidos con el éxito de nuestros clientes. 
 
-+ []() -  Data Engineer
-+ []() -  Data Engineer
-+ []() -  Data Analyst
-+ []() -  Data Analyst
-+ []() -  Data Scientist 
++ [Luis Gabriel Vela Coimbra]() -  Data Engineer
++ [Andres Felipe Corzo Angarita ]() -  Data Engineer
++ [Juan Carlos Contreras Figueredo ]() -  Data Analyst
++ [Agustin Balcaza]() -  Data Analyst
++ [David Andre Montes Saldarriaga ]() -  Data Scientist 
   
 ### Stack Tecnológico
