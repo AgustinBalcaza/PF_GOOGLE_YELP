@@ -9,7 +9,7 @@
   <summary>Tabla de contenido: </summary>
   <ol>
     <li>
-      <a href="#LATAM DATA CORPORATION">Datacket</a>
+      <a href="#LATAM DATA CORPORATION">LATAM DATA CORPORATION</a>
       <ul>
         <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
         <li><a href="#Nuestro-equipo">Nuestro equipo</a></li>
