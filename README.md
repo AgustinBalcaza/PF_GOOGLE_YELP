@@ -9,7 +9,7 @@
   <summary>Tabla de contenido: </summary>
   <ol>
     <li>
-      <a href="#LATAM DATA CORPORATION">LATAM DATA CORPORATION</a>
+      <a href="#LATAMDATA">LATAMDATA</a>
       <ul>
         <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
       </ul>
@@ -99,7 +99,7 @@ Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 
 ### Roles del Equipo
 
-Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAM DATA CORPORATION, estamos comprometidos con el éxito de nuestros clientes. 
+Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAMDATA, estamos comprometidos con el éxito de nuestros clientes. 
 
 + [Luis Gabriel Vela Coimbra]() -  Data Engineer
 + [Andres Felipe Corzo Angarita ]() -  Data Engineer
