@@ -46,9 +46,9 @@
 
 Somos LATAM DATA CORPORATION, una consultora líder con sólida experiencia y vanguardia en diversos sectores industriales. Nuestro enfoque se centra en proporcionar a nuestros clientes soluciones avanzadas y personalizadas en análisis de datos, inteligencia empresarial y modelado predictivo. Colaboramos estrechamente con nuestros clientes para identificar las habilidades y conocimientos esenciales que serán cruciales en el panorama empresarial futuro.
 
-## Planteamiento-del-problema
+## Planteamiento del problema
 
-## Propuesta-de-proyecto
+## Propuesta de proyecto
 ### Objetivos
 
 1. Identificar las categorías de hoteles con potencial de mayor y menor crecimiento a través del análisis de opiniones en plataformas como Yelp y Google Maps
