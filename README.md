@@ -12,7 +12,6 @@
       <a href="#LATAM DATA CORPORATION">LATAM DATA CORPORATION</a>
       <ul>
         <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
-        <li><a href="#Nuestro-equipo">Nuestro equipo</a></li>
       </ul>
     </li>
     <li>
@@ -27,10 +26,11 @@
         <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
         <li><a href="#performance-del-modelo">Performance del modelo</a></li>
       </ul>
-      <li><a href="#Solución Propuesta">Metodología de trabajo</a></li>
+      <li><a href="#Solución Propuesta">Solución Propuesta</a></li>
       <ul>
         <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
-        <li><a href="#Estimación de Tiempos">Metodología de trabajo</a></li>
+        <li><a href="#Estimación de Tiempos">Estimación de Tiempos</a></li>
+        <li><a href="#Roles del Equipo">Roles del Equipo</a></li>
     </li>
     <li>
       <a href="#Cronología-general">Cronología general</a>
