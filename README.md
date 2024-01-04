@@ -47,6 +47,7 @@
 Somos LATAM DATA CORPORATION, una consultora líder con sólida experiencia y vanguardia en diversos sectores industriales. Nuestro enfoque se centra en proporcionar a nuestros clientes soluciones avanzadas y personalizadas en análisis de datos, inteligencia empresarial y modelado predictivo. Colaboramos estrechamente con nuestros clientes para identificar las habilidades y conocimientos esenciales que serán cruciales en el panorama empresarial futuro.
 
 ## Planteamiento del problema
+El problema consiste en procesar y analizar datos provenientes de reseñas de usuarios de hoteles recopiladas de Yelp y Google Maps en Estados Unidos. Se busca comprender la percepción y opiniones de los usuarios sobre diferentes establecimientos del sector Turismo. Además, se necesita desarrollar un modelo de recomendación de hoteles para usuarios basado en estas reseñas. El enfoque está específicamente dirigido a la industria hotelera y pretende transformar datos crudos en información significativa para mejorar la experiencia del usuario y brindar recomendaciones más precisas y personalizadas, además de hacer visual el análisis de datos realizado con el fin de dar a la empresa contrante un enfoque de inversión más claro y conciso que pueda pretender en esta industria.
 
 ## Propuesta de proyecto
 ### Objetivos
