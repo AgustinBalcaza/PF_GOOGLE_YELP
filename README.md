@@ -39,7 +39,9 @@
     </li>     
   </ol>
 </details>
-  
+
+## ¿Quienes somos?
+
 ## Objetivos
 
 1. Identificar las categorías de hoteles con potencial de mayor y menor crecimiento a través del análisis de opiniones en plataformas como Yelp y Google Maps
