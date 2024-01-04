@@ -61,9 +61,9 @@ Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAM DATA CORPORATION, estamos comprometidos con el éxito de nuestros clientes. 
 
 + []() -  Data Engineer
-+ []() - Data Analyst
-+ []() - Data Scientist
-+ []() - Data Engineer
-+ []() - Data Scientist
++ []() -  Data Engineer
++ []() -  Data Analyst
++ []() -  Data Analyst
++ []() -  Data Scientist 
   
 ### Stack Tecnológico
