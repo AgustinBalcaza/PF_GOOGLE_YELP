@@ -70,8 +70,9 @@ Conforme a los requerimientos del cliente, el proyecto se orienta hacia el ámbi
 
 ### Stack Tecnológico
 <p align="center">
-  <img src="./assets/Stack Tecnológico.png" alt="Descripción de la imagen" width="600" height="600">
+  <img src="./assets/Stack Tecnológico.png" alt="Descripción de la imagen" width="800" height="800">
 </p>
+
 ### Performance del modelo
 
 
