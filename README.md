@@ -22,14 +22,15 @@
       <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
       <ul>
         <li><a href="#Objetivos">Objetivos</a></li>
-        <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
         <li><a href="#kpis">KPIs</a></li>
         <li><a href="#Alcance">Alcance</a></li>
         <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
-        <li><a href="#Posibilidades-de-continuidad-del-proyecto">Posibilidades de continuidad del proyecto</a></li> 
-        <li><a href="#Limitaciones">Limitaciones</a></li>
         <li><a href="#performance-del-modelo">Performance del modelo</a></li>
       </ul>
+      <li><a href="#Solución Propuesta">Metodología de trabajo</a></li>
+      <ul>
+        <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
+        <li><a href="#Estimación de Tiempos">Metodología de trabajo</a></li>
     </li>
     <li>
       <a href="#Cronología-general">Cronología general</a>
