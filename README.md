@@ -3,6 +3,42 @@
 <p align="center">
   <img src="./assets/logo.jpg" alt="Descripción de la imagen" width="600" height="600">
 </p>
+
+## Indice
+<details open="open">
+  <summary>Tabla de contenido: </summary>
+  <ol>
+    <li>
+      <a href="#LATAM DATA CORPORATION">Datacket</a>
+      <ul>
+        <li><a href="#Quienes-somos">¿Quienes somos?</a></li>
+        <li><a href="#Nuestro-equipo">Nuestro equipo</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Planteamiento-del-problema">Planteamiento del problema</a>
+    </li>
+    <li>
+      <a href="#Propuesta-de-proyecto">Propuesta de proyecto</a>
+      <ul>
+        <li><a href="#Objetivos">Objetivos</a></li>
+        <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
+        <li><a href="#kpis">KPIs</a></li>
+        <li><a href="#Alcance">Alcance</a></li>
+        <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
+        <li><a href="#Posibilidades-de-continuidad-del-proyecto">Posibilidades de continuidad del proyecto</a></li> 
+        <li><a href="#Limitaciones">Limitaciones</a></li>
+        <li><a href="#performance-del-modelo">Performance del modelo</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Cronología-general">Cronología general</a>
+      <ul>
+        <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
+      </ul>
+    </li>     
+  </ol>
+</details>
   
 ## Objetivos
 
