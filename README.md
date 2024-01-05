@@ -114,7 +114,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 ### Stack Tecnológico
 
 <p align="center">
-  <img src="./assets/Stack Tecnológico.png" alt="Descripción de la imagen" width="800" height="800">
+  <img src="./assets/Stack Tecnológico.png" alt="Descripción de la imagen" width="750" height="750">
 </p>
 
 ### Workflow
