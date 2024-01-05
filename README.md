@@ -25,20 +25,15 @@
         <li><a href="#kpis">KPIs</a></li>
         <li><a href="#Alcance">Alcance</a></li>
         <li><a href="#Stack-tecnológico">Stack tecnológico</a></li>
-        <li><a href="#performance-del-modelo">Performance del modelo</a></li>
       </ul>
       <li><a href="#Solución Propuesta">Solución Propuesta</a></li>
       <ul>
         <li><a href="#Metodología-de-trabajo">Metodología de trabajo</a></li>
         <li><a href="#Estimación de Tiempos">Estimación de Tiempos</a></li>
         <li><a href="#Roles del Equipo">Roles del Equipo</a></li>
-    </li>
-    <li>
-      <a href="#Cronología-general">Cronología general</a>
-      <ul>
-        <li><a href="#Diagrama-de-Gantt">Diagrama de Gantt</a></li>
-      </ul>
-    </li>     
+        <li><a href="#Stack-tecnologico">Stack Tecnológico</a></li>
+        <li><a href="#Workflow">WorkFlow</a></li>
+    </li> 
   </ol>
 </details>
 
@@ -72,8 +67,6 @@ El problema consiste en procesar y analizar datos provenientes de reseñas de us
 ### Alcance
 
 Conforme a los requerimientos del cliente, el proyecto se orienta hacia el ámbito turístico, centrándose específicamente en las categorías de alojamiento, con énfasis en hoteles, en los Estados Unidos. Dada la extensa diversidad estatal en este país, se ha llevado a cabo una investigación para identificar y diseñar estrategias acordes con los objetivos de la empresa contratante. Se ha determinado que, según datos recopilados por el Departamento de Comercio de los Estados Unidos (disponible en https://www-trade-gov.translate.goog/data-visualization/us-states-cities-visited-overseas-travelers?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc), los cinco estados más concurridos por turistas en el año 2022 fueron Florida, Nueva York, California, Nevada y Texas. Este análisis abarca el período desde el año 2016 hasta el 2022.
-
-### Performance del modelo
 
 ## Solución Propuesta
 
