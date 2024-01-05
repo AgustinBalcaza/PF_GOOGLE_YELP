@@ -119,7 +119,7 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 
 #### Fundamentacion
 
-Python con bibliotecas como Pandas, Seaborn, NumPy, Matplotlib y Scikit-learn:
+##### Python con bibliotecas como Pandas, Seaborn, NumPy, Matplotlib y Scikit-learn:
 
 <p>Pandas: Es una biblioteca de manipulación y análisis de datos que proporciona estructuras de datos potentes y herramientas para trabajar con conjuntos de datos estructurados, facilitando tareas como limpieza, transformación y análisis.</p>
 <p>NumPy: Proporciona estructuras de datos para trabajar con matrices multidimensionales y funciones matemáticas de alto nivel para operar con estas matrices. Es fundamental para operaciones numéricas eficientes.</p>
@@ -127,14 +127,14 @@ Python con bibliotecas como Pandas, Seaborn, NumPy, Matplotlib y Scikit-learn:
 <p>Seaborn: Construida sobre Matplotlib, Seaborn proporciona una interfaz de alto nivel para crear visualizaciones estadísticas atractivas y detalladas. Es útil para la exploración rápida de datos y la creación de gráficos más complejos.</p>
 <p>Scikit-learn: Ofrece herramientas para aprendizaje automático y modelado estadístico. Proporciona una gama de algoritmos y utilidades para tareas de clasificación, regresión, agrupamiento, entre otras.</p>
 
-Google Cloud Platform (GCP) con herramientas como Storage, Cloud Functions, BigQuery y Cloud Run:
+##### Google Cloud Platform (GCP) con herramientas como Storage, Cloud Functions, BigQuery y Cloud Run:
 
 <p>Google Cloud Storage: Ofrece almacenamiento escalable y seguro para objetos, permitiendo almacenar y acceder a grandes cantidades de datos de forma eficiente.</p>
 <p>Google Cloud Functions: Permite ejecutar código en respuesta a eventos en la nube sin necesidad de aprovisionar o administrar servidores, ideal para aplicaciones serverless y microservicios.</p>
 <p>BigQuery: Es un servicio de almacenamiento y análisis de datos totalmente administrado que permite consultar grandes conjuntos de datos usando SQL de forma rápida y escalable.</p>
 <p>Cloud Run: Permite ejecutar contenedores de manera escalable y sin estado, ofreciendo flexibilidad para desplegar y gestionar servicios en la nube de manera eficiente.</p>
 
-Power BI:
+##### Power BI:
 
 <p>Es una plataforma de análisis empresarial que permite visualizar datos y compartir información de manera interactiva y atractiva. Conecta con una variedad de fuentes de datos, incluyendo bases de datos en la nube o locales, y proporciona herramientas para crear informes dinámicos y cuadros de mando.</p>
 <p>La combinación de estos componentes permite desde la manipulación y análisis avanzado de datos en Python, pasando por el almacenamiento y procesamiento en la nube con GCP, hasta la visualización interactiva y la generación de informes con Power BI. Esto facilita la creación de soluciones completas desde la adquisición y procesamiento de datos hasta la presentación y toma de decisiones basada en análisis detallados.</p>
