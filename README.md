@@ -5,6 +5,7 @@
 </p>
 
 ## Indice
+
 <details open="open">
   <summary>Tabla de contenido: </summary>
   <ol>
@@ -42,14 +43,17 @@
 </details>
 
 ## LATAMDATA
+
 ### ¿Quienes somos?
 
 Somos LATAM DATA CORPORATION, una consultora líder con sólida experiencia y vanguardia en diversos sectores industriales. Nuestro enfoque se centra en proporcionar a nuestros clientes soluciones avanzadas y personalizadas en análisis de datos, inteligencia empresarial y modelado predictivo. Colaboramos estrechamente con nuestros clientes para identificar las habilidades y conocimientos esenciales que serán cruciales en el panorama empresarial futuro.
 
 ## Planteamiento del problema
+
 El problema consiste en procesar y analizar datos provenientes de reseñas de usuarios de hoteles recopiladas de Yelp y Google Maps en Estados Unidos. Se busca comprender la percepción y opiniones de los usuarios sobre diferentes establecimientos del sector Turismo. Además, se necesita desarrollar un modelo de recomendación de hoteles para usuarios basado en estas reseñas. El enfoque está específicamente dirigido a la industria hotelera y pretende transformar datos crudos en información significativa para mejorar la experiencia del usuario y brindar recomendaciones más precisas y personalizadas, además de hacer visual el análisis de datos realizado con el fin de dar a la empresa contrante un enfoque de inversión más claro y conciso que pueda pretender en esta industria.
 
 ## Propuesta de proyecto
+
 ### Objetivos
 
 1. Identificar las categorías de hoteles con potencial de mayor y menor crecimiento a través del análisis de opiniones en plataformas como Yelp y Google Maps
@@ -60,22 +64,22 @@ El problema consiste en procesar y analizar datos provenientes de reseñas de us
 
 ### KPIs
 
-1. Reducir el 6% de las estrellas de 1 y 2 del sector hotelero con respecto a cada año
-2. Aumentar el 5% de la cantidad de reviews en hoteles con respectos cada año
-3. Aumentar en un 6% los reviews positivos en hoteles con respecto a cada año
-4. Incremento de un 10% del total de reviews del año actual respecto del año anterior (Refleja un aumento de popularidad).
+1. Tasa anual de satisfacción de los reviews: Calcula el porcentaje de calificaciones positivas por categoría hotelera que recibió. Es útil para medir la reputación de cada categoría y determinar la mejor.
+2. Tasa anual de gastos en turismo: Calcula el porcentaje de gastos del turismo por estado. Es útil para ver el aumento del gasto en turismo.
+3. Tasa de Crecimiento de Categoría Hotelera: Mide el crecimiento de cada categoría de la industria hotelera por estado con respecto al año anterior. Para determinar la categoría con mayor y menor crecimiento dependiendo del Estado.
+4. Tasa de Ocurrencia: Mide la cantidad de reviews por estado y categorías con respecto al año anterior y así poder determinar el estado con mayor visitas por parte de los usuarios.
 
 ### Alcance
 
 Conforme a los requerimientos del cliente, el proyecto se orienta hacia el ámbito turístico, centrándose específicamente en las categorías de alojamiento, con énfasis en hoteles, en los Estados Unidos. Dada la extensa diversidad estatal en este país, se ha llevado a cabo una investigación para identificar y diseñar estrategias acordes con los objetivos de la empresa contratante. Se ha determinado que, según datos recopilados por el Departamento de Comercio de los Estados Unidos (disponible en https://www-trade-gov.translate.goog/data-visualization/us-states-cities-visited-overseas-travelers?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc), los cinco estados más concurridos por turistas en el año 2022 fueron Florida, Nueva York, California, Nevada y Texas. Este análisis abarca el período desde el año 2016 hasta el 2022.
 
 ### Stack Tecnológico
+
 <p align="center">
   <img src="./assets/Stack Tecnológico.png" alt="Descripción de la imagen" width="800" height="800">
 </p>
 
 ### Performance del modelo
-
 
 ## Solución Propuesta
 
@@ -107,16 +111,28 @@ En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología
   <img src="./assets/gant3.jpg" alt="Descripción de la imagen" width="500" height="300">
 </p>
 
-Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 20 del mismo mes.
+Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 19 del mismo mes.
 Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 
 ### Roles del Equipo
 
-Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAMDATA, estamos comprometidos con el éxito de nuestros clientes. 
+Nuestro equipo de expertos está constantemente actualizado en las últimas tendencias y tecnologías del mercado laboral para brindar soluciones prácticas y efectivas para nuestros clientes. En LATAMDATA, estamos comprometidos con el éxito de nuestros clientes.
 
-+ [Luis Gabriel Vela Coimbra]() -  Data Engineer
-+ [Andres Felipe Corzo Angarita ]() -  Data Engineer
-+ [Juan Carlos Contreras Figueredo ]() -  Data Analyst
-+ [Agustin Balcaza]() -  Data Analyst
-+ [David Andre Montes Saldarriaga ]() -  Data Scientist 
-  
+- [Luis Gabriel Vela Coimbra]() - Data Engineer
+- [Andres Felipe Corzo Angarita ]() - Data Engineer
+- [Juan Carlos Contreras Figueredo ]() - Data Analyst
+- [Agustin Balcaza]() - Data Analyst
+- [David Andre Montes Saldarriaga ]() - Data Scientist
+
+### Stack Tecnológico
+
+### Workflow
+
+Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a documentación actualizada y precisa, así como la extensa variedad de soluciones que proporciona en su plataforma, desde el almacenamiento y procesamiento de datos hasta el análisis predictivo y la visualización, hemos optado por elegirlo.
+
+- Fuentes de Datos: Archivos planos + API externa
+- Integración: Cloud Functions en Google Cloud Platform
+- Almacenamiento: Google Cloud Storage
+- Data Warehouse: BigQuery en Google Cloud Platform
+- Machine Learning: Google Cloud Run
+- Visualización: Power Bi
