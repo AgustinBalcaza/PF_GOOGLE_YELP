@@ -120,6 +120,3 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 + [Agustin Balcaza]() -  Data Analyst
 + [David Andre Montes Saldarriaga ]() -  Data Scientist 
   
-### Cronología general
-
-#### Diagrama de Gantt
