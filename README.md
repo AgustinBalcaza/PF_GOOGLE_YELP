@@ -14,10 +14,10 @@
 
 ## KPIs
 
-1. Reducir el 6% de las estrellas de 1 y 2 del sector hotelero con respecto a cada año
-2. Aumentar el 5% de la cantidad de reviews en hoteles con respectos cada año
-3. Aumentar en un 6% los reviews positivos en hoteles con respecto a cada año
-4. Incremento de un 10% del total de reviews del año actual respecto del año anterior (Refleja un aumento de popularidad).
+1. Tasa anual de satisfacción de los reviews: Calcula el porcentaje de calificaciones positivas por categoría hotelera que recibió. Es útil para medir la reputación de cada categoría y determinar la mejor.
+2. Tasa anual de gastos en turismo: Calcula el porcentaje de gastos del turismo por estado. Es útil para ver el aumento del gasto en turismo.
+3. Tasa de Crecimiento de Categoría Hotelera: Mide el crecimiento de cada categoría de la industria hotelera por estado con respecto al año anterior. Para determinar la categoría con mayor y menor crecimiento dependiendo del Estado.
+4. Tasa de Ocurrencia: Mide la cantidad de reviews por estado y categorías con respecto al año anterior y así poder determinar el estado con mayor visitas por parte de los usuarios.
 
 ## Alcance
 
@@ -53,9 +53,20 @@ En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología
   <img src="./assets/gant3.jpg" alt="Descripción de la imagen" width="500" height="300">
 </p>
 
-Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 20 del mismo mes.
+Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 19 del mismo mes.
 Cada Sprint cuenta con sus actividades y tareas para los miembros del equipo.
 
 ### Roles del Equipo
 
 ### Stack Tecnológico
+
+### Workflow
+
+Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a documentación actualizada y precisa, así como la extensa variedad de soluciones que proporciona en su plataforma, desde el almacenamiento y procesamiento de datos hasta el análisis predictivo y la visualización, hemos optado por elegirlo.
+
+- Fuentes de Datos: Archivos planos + API externa
+- Integración: Cloud Functions en Google Cloud Platform
+- Almacenamiento: Google Cloud Storage
+- Data Warehouse: BigQuery en Google Cloud Platform
+- Machine Learning: Google Cloud Run
+- Visualización: Power Bi
