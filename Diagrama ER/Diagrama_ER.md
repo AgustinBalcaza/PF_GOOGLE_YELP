@@ -9,7 +9,7 @@ El diagrama incluye todos los datos filtrados y combinados de las fuentes de Goo
 
 <H1 align="left">Diccionario de datos</H1>
 
-<img src="./assets/Dicc_datos.jpg" alt="Descripción de la imagen" width="707" height="431">
+<img src="../assets/Dicc_datos.jpg" alt="Descripción de la imagen" width="707" height="431">
 
 El diccionario de datos contiene todos los tipos de datos de la combinación de las fuentes de Google y Yelp.
 
