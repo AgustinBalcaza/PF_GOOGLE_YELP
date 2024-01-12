@@ -4,8 +4,9 @@
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
 <p align="center">
-  <img src="https://github.com/Adapa22/PF-YelpGoogleMaps/blob/main/src/portada.PNG">
+  <img src="https://github.com/">
 </p>
+
 4- Modelos de Machine Learning con las librerias de Scikit-learn, Keras y TensorFlow, deployados con la libreria Streamlit
 
 
