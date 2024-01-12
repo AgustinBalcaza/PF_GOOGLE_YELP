@@ -1,6 +1,6 @@
 <H1 align="left">Diagrama Entidad Relación</H1>
 
-<img src="./assets/Diagrama_ER.png" alt="Descripción de la imagen" width="1760" height="1000">
+<img src="./assets/Diagrama_ER.png" alt="Descripción de la imagen" width="1760" height="800">
 
 EL diagrama está compuesto por 6 entidades: Category, Busines, Reviews, User, City y State mas una entidad de relación denominada Category_Business la cual relaciona las categorías con los negocios. Cada una de ellas posee los atributos relacionados a la característica de los datos que maneja junto con las notaciones de las llaves primarias y foráneas. 
 
@@ -9,7 +9,7 @@ El diagrama incluye todos los datos filtrados y combinados de las fuentes de Goo
 
 <H1 align="left">DDiccionario de datos</H1>
 
-<img src="./assets/Dicc_datos.png" alt="Descripción de la imagen" width="707" height="431">
+<img src="./assets/Dicc_datos.jpg" alt="Descripción de la imagen" width="707" height="431">
 
 El diccionario de datos contiene todos los tipos de datos de la combinación de las fuentes de Google y Yelp.
 
