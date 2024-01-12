@@ -8,7 +8,7 @@ Un MVP (Minimum Viable Product) para un producto de machine learning (ML) genera
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
 <p align="center">
-  <img src="https://github.com/">
+  <img src="https://github.com/AgustinBalcaza/PF_GOOGLE_YELP/blob/main/ML_Recomendaci%C3%B3n/ML_RECOMEN.png">
 </p>
 
 4- Modelos de Machine Learning con las librerias de Scikit-learn, Keras y TensorFlow, deployados con la libreria Streamlit
