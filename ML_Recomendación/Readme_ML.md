@@ -1,7 +1,7 @@
 
 ## MVP/ Proof of Concept de producto de ML 
 ### Performance del modelo
-Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
+Un MVP (Minimum Viable Product) o prueba de concepto (Proof of Concept, PoC) para un producto de machine learning (ML) generalmente implica la creación de una versión simplificada del producto que demuestra la viabilidad y funcionalidad básica de la solución. Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
 <p align="center">
   <img src="https://github.com/">
