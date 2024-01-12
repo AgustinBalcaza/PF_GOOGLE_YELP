@@ -14,4 +14,3 @@ Para la carga incremental de la misma forma se uso las mismas tecnologias Google
 Para ver el funcionamiento de ambos se realizo un video en donde se muestra todo el proceso el cual se encuentra en el siguiente enlace.
 https://youtu.be/Trp1KBe-zFM
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Trp1KBe-zFM?si=5gKnyPtBHobHy0Pj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
