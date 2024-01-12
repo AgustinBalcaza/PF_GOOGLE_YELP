@@ -1,6 +1,6 @@
 <H1 align="center">Diagrama Entidad Relación</H1>
 
-(assets/Diagrama_ER.png)
+<img src="./assets/Diagrama_ER.png alt="Descripción de la imagen" width="1760" height="1360">  
 
 EL diagrama está compuesto por 6 entidades: Category, Busines, Reviews, User, City y State mas una entidad de relación denominada Category_Business la cual relaciona las categorías con los negocios. Cada una de ellas posee los atributos relacionados a la característica de los datos que maneja junto con las notaciones de las llaves primarias y foráneas. 
 
@@ -9,7 +9,7 @@ El diagrama incluye todos los datos filtrados y combinados de las fuentes de Goo
 
 <H1 align="center">DDiccionario de datos</H1>
 
-(assets/Dicc_datos.png)
+<img src="./assets/Dicc_datos.png alt="Descripción de la imagen" width="707" height="431"> 
 
 
 Business Name (Nombre del Negocio):
