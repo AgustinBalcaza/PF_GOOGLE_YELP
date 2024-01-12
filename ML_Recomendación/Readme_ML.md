@@ -1,5 +1,5 @@
 
-
+## MVP/ Proof of Concept de producto de ML 
 ### Performance del modelo
 Desarrollar un sistema de recomendación que recoge las reseñas hechas de un usuario, o de los usuarios a los que sigue, y sugiere otros negocios similares.
 
