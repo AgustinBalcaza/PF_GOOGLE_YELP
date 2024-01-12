@@ -7,7 +7,7 @@ EL diagrama está compuesto por 6 entidades: Category, Busines, Reviews, User, C
 El diagrama incluye todos los datos filtrados y combinados de las fuentes de Google Maps y Yelp.
 
 
-<H1 align="left">DDiccionario de datos</H1>
+<H1 align="left">Diccionario de datos</H1>
 
 <img src="./assets/Dicc_datos.jpg" alt="Descripción de la imagen" width="707" height="431">
 
