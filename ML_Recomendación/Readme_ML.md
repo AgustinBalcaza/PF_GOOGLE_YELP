@@ -18,4 +18,6 @@ Desarrollar un sistema de recomendación que recoge las reseñas hechas de un us
   **Red Neuronal para identificar las especificaciones clave de los negocios exitosos:** _Hemos creado una red neuronal para identificar las características y especificaciones que deben tener los negocios exitosos._
 
 
+Establecer un sistema de sugerencias basado en las preferencias y experiencias anteriores de los usuarios en ambas plataformas.
+
 
