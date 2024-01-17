@@ -11,8 +11,7 @@ Desarrollar un sistema de recomendación que recoge los features de cada  Busine
   <img src="https://github.com/AgustinBalcaza/PF_GOOGLE_YELP/blob/main/ML_Recomendaci%C3%B3n/ML_RECOMEN.png">
 </p>
 
-
-# Informe del modelo de clasificación con redes neuronales
+# Informe del modelo de clasificación 
     
 Este informe detalla el proceso y los resultados de un modelo de clasificación implementado utilizando redes neuronales con la biblioteca Keras. El objetivo del modelo es predecir las etiquetas de atributos a partir de características como la calificación (stars), la categoría (categoria) y el estado (state) de un conjunto de datos.
 
@@ -22,6 +21,7 @@ En esta etapa, se realiza el preprocesamiento de los datos de entrada para prepa
 ### 1.1. Selección de características
 
 Se seleccionan las características relevantes para el modelo, que son la calificación (stars), la categoría (categoria) y el estado (state). Estas características se extraen del DataFrame original `df` y se almacenan en el DataFrame `X`.
+
 ### 1.2. Codificación de variables categóricas
 
 Para poder utilizar las variables categóricas en el modelo, se realiza una codificación mediante la técnica de \"one-hot encoding\". Esto implica convertir las variables categóricas en variables numéricas binarias. En este caso, se aplica `pd.get_dummies(X)` para codificar las variables categóricas en columnas binarias correspondientes a cada categoría.
