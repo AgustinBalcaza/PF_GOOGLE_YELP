@@ -11,7 +11,6 @@ Desarrollar un sistema de recomendación que recoge los features de cada  Busine
   <img src="https://github.com/AgustinBalcaza/PF_GOOGLE_YELP/blob/main/ML_Recomendaci%C3%B3n/ML_RECOMEN.png">
 </p>
 
-
 {
  "cells": [
   {
@@ -65,3 +64,9 @@ Desarrollar un sistema de recomendación que recoge los features de cada  Busine
     "\n",
     "Este informe describe el proceso de construcción, entrenamiento y evaluación de un modelo de clasificación utilizando redes neuronales. El modelo utiliza las características de calificación, categoría y estado para predecir las etiquetas de atributos. Los resultados obtenidos se basan en las métricas de pérdida y precisión del modelo en el conjunto de prueba.\n"
    ]
+  },
+  {
+   "attachments": {},
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
