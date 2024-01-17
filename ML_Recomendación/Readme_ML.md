@@ -11,13 +11,7 @@ Desarrollar un sistema de recomendación que recoge los features de cada  Busine
   <img src="https://github.com/AgustinBalcaza/PF_GOOGLE_YELP/blob/main/ML_Recomendaci%C3%B3n/ML_RECOMEN.png">
 </p>
 
-{
- "cells": [
-  {
-   "attachments": {},
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "# Informe del modelo de clasificación con redes neuronales\n",
     "\n",
     "Este informe detalla el proceso y los resultados de un modelo de clasificación implementado utilizando redes neuronales con la biblioteca Keras. El objetivo del modelo es predecir las etiquetas de atributos a partir de características como la calificación (stars), la categoría (categoria) y el estado (state) de un conjunto de datos.\n",
