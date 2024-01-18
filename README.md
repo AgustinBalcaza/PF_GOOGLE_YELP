@@ -166,24 +166,24 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 #### Descripcion
 
 <p>En este proyecto, llevamos a cabo un proceso integral que abarca desde la obtención de datos hasta la visualización, utilizando diversas herramientas de Google Cloud Platform (GCP) y tecnologías de análisis de datos y aprendizaje automático.</p>
-<p>**Obtención de Datos:**</p>
+<p><strong>Obtención de Datos:</strong></p>
 <p>Se obtienen conjuntos de datos de Google Maps y Yelp para alimentar nuestro análisis.</p>
-<p>**ETL local con Python**:</p>
+<p><strong>ETL local con Python:</strong></p>
 <p>Se realiza un proceso de Extracción, Transformación y Carga (ETL) de manera local utilizando Python y las bibliotecas pandas y numpy para limpiar y preparar los datos.</p>
-<p>**EDA con Matplotlib y Seaborn:**</p>
+<p><strong>EDA con Matplotlib y Seaborn:</strong></p>
 <p>Se realiza un Análisis Exploratorio de Datos (EDA) utilizando las librerías Matplotlib y Seaborn para visualizar patrones y relaciones en los datos.</p>
-<p>**Almacenamiento en GCP Storage:**</p>
+<p><strong>Almacenamiento en GCP Storage:</strong></p>
 <p>Se crea un bucket en la herramienta de Storage de GCP para almacenar los datos después de completar los procesos de ETL y EDA.</p>
-<p>**ETL Automatizado con Cloud Functions y BigQuery:**</p>
+<p><strong>ETL Automatizado con Cloud Functions y BigQuery:</strong></p>
 <p>Se implementa un script en Cloud Functions para realizar un ETL automático, generando y eliminando columnas según sea necesario, y almacenando los resultados en BigQuery siguiendo un modelo de entidad-relación especificado en la carpeta Diagrama ER.</p>
-<p>**Desarrollo del Modelo de Aprendizaje Automático:**</p>
+<p><strong>Desarrollo del Modelo de Aprendizaje Automático:</strong></p>
 <p>Se crea un archivo ML.ipynb para desarrollar un modelo de aprendizaje automático. Luego, se generan consultas y se realiza el despliegue local utilizando conda y los comandos especificados en el documento Readme_ML.md.</p>
-<p>**Implementar en GCP App Engine:**</p>
+<p><strong>Implementar en GCP App Engine:</strong></p>
 <p>Se utiliza Cloud SDK para ejecutar comandos especificados en el documento Readme_ML.md, logrando así el despliegue del modelo como una aplicación que se almacena en GCP App Engine, proporcionando un enlace público para su consumo.</p>
-<p>**Visualización con Power BI:**</p>
+<p><strong>Visualización con Power BI:</strong></p>
 <p>Los datos almacenados en BigQuery se conectan a Power BI para la creación de Dashboards interactivos y visualmente atractivos.</p>
-<p>**Web Scraping Automatizado con Funciones de la Nube:**</p>
+<p><strong>Web Scraping Automatizado con Funciones de la Nube:</strong></p>
 <p>Se desarrolla un script en Cloud Functions para realizar web scraping de una página especificada en el documento Readme.md de la carpeta Google Cloud Platform. Se implementa un ETL automático y los datos se almacenan en BigQuery.</p>
-<p>**Automatización con Cloud Scheduler:**</p>
+<p><strong>Automatización con Cloud Scheduler:</strong></p>
 <p>Se utiliza Cloud Scheduler para generar un trabajo cron anual que ejecuta el proceso de web scraping, garantizando la actualización periódica de los datos.</p>
 <p>Este enfoque integrado aprovecha las capacidades de Google Cloud Platform para gestionar eficientemente cada etapa del proceso, desde la adquisición de datos hasta la implementación de modelos de aprendizaje automático y la visualización de resultados, proporcionando una solución robusta y escalable para análisis de datos avanzados.</p>
