@@ -52,3 +52,5 @@ Una vez finalizado el entrenamiento, se evalúa el rendimiento del modelo utiliz
 Se utilizan las características codificadas del conjunto de prueba (`X_test`) para realizar predicciones con el modelo entrenado. Las predicciones se almacenan en la variable `predictions` y representan las probabilidades de pertenencia a cada clase de atributo.
 
 Este informe describe el proceso de construcción, entrenamiento y evaluación de un modelo de clasificación utilizando redes neuronales. El modelo utiliza las características de calificación, categoría y estado para predecir las etiquetas de atributos. Los resultados obtenidos se basan en las métricas de pérdida y precisión del modelo en el conjunto de prueba.
+
+# Deployment
