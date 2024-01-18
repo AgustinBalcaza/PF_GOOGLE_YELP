@@ -119,20 +119,23 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 
 #### Fundamentacion
 
-##### Python con bibliotecas como Pandas, Seaborn, NumPy, Matplotlib y Scikit-learn:
+##### Python con bibliotecas como Pandas, Seaborn, NumPy, Matplotlib, Scikit-learn y Streamlit:
 
 <p>Pandas: Es una biblioteca de manipulación y análisis de datos que proporciona estructuras de datos potentes y herramientas para trabajar con conjuntos de datos estructurados, facilitando tareas como limpieza, transformación y análisis.</p>
 <p>NumPy: Proporciona estructuras de datos para trabajar con matrices multidimensionales y funciones matemáticas de alto nivel para operar con estas matrices. Es fundamental para operaciones numéricas eficientes.</p>
 <p>Matplotlib: Es una librería de trazado de gráficos que permite generar visualizaciones estáticas, ofreciendo un alto grado de control sobre la apariencia de los gráficos.</p>
 <p>Seaborn: Construida sobre Matplotlib, Seaborn proporciona una interfaz de alto nivel para crear visualizaciones estadísticas atractivas y detalladas. Es útil para la exploración rápida de datos y la creación de gráficos más complejos.</p>
 <p>Scikit-learn: Ofrece herramientas para aprendizaje automático y modelado estadístico. Proporciona una gama de algoritmos y utilidades para tareas de clasificación, regresión, agrupamiento, entre otras.</p>
+<p>Streamlit: Streamlit es una biblioteca de Python que permite crear aplicaciones web interactivas de manera rápida y sencilla. Está diseñado para facilitar a científicos de datos y desarrolladores la creación de interfaces de usuario para visualizar y compartir datos de manera efectiva. La premisa fundamental de Streamlit es proporcionar una experiencia de desarrollo minimalista, donde el código para crear aplicaciones sea simple y directo.</p>
 
-##### Google Cloud Platform (GCP) con herramientas como Storage, Cloud Functions, BigQuery y Cloud Run:
+##### Google Cloud Platform (GCP) con herramientas como Storage, Cloud Functions, BigQuery, Scheduler, App Engine y Cloud SDK:
 
 <p>Google Cloud Storage: Ofrece almacenamiento escalable y seguro para objetos, permitiendo almacenar y acceder a grandes cantidades de datos de forma eficiente.</p>
 <p>Google Cloud Functions: Permite ejecutar código en respuesta a eventos en la nube sin necesidad de aprovisionar o administrar servidores, ideal para aplicaciones serverless y microservicios.</p>
 <p>BigQuery: Es un servicio de almacenamiento y análisis de datos totalmente administrado que permite consultar grandes conjuntos de datos usando SQL de forma rápida y escalable.</p>
-<p>Cloud Run: Permite ejecutar contenedores de manera escalable y sin estado, ofreciendo flexibilidad para desplegar y gestionar servicios en la nube de manera eficiente.</p>
+<p>Cloud Scheduler: Cloud Scheduler es un servicio completamente administrado que te permite programar trabajos en GCP, de manera que puedas automatizar la ejecución de tareas recurrentes y planificadas. Algunos de los casos de uso comunes incluyen la ejecución de trabajos de procesamiento de datos, la activación de funciones en Cloud Functions y la actualización periódica de recursos en la nube.</p>
+<p>App Engine: App Engine es un servicio de plataforma como servicio (PaaS) que te permite desarrollar y alojar aplicaciones web escalables sin preocuparte por la administración de la infraestructura subyacente. Es compatible con varios entornos de ejecución, incluidos Python, Java, Node.js y más.</p>
+<p>Cloud SDK: Cloud SDK es un conjunto de herramientas de línea de comandos que facilitan la interacción con los productos y servicios de Google Cloud. Proporciona comandos para gestionar recursos, realizar despliegues y automatizar tareas administrativas en GCP.</p>
 
 ##### Power BI:
 
@@ -143,9 +146,9 @@ Nuestro equipo de expertos está constantemente actualizado en las últimas tend
 
 Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a documentación actualizada y precisa, así como la extensa variedad de soluciones que proporciona en su plataforma, desde el almacenamiento y procesamiento de datos hasta el análisis predictivo y la visualización, hemos optado por elegirlo.
 
-- Fuentes de Datos: Archivos planos + API externa
+- Fuentes de Datos: Archivos planos + Webscrapping
 - Integración: Cloud Functions en Google Cloud Platform
 - Almacenamiento: Google Cloud Storage
 - Data Warehouse: BigQuery en Google Cloud Platform
-- Machine Learning: Google Cloud Run
+- Machine Learning: Google Cloud SDK + App Engine
 - Visualización: Power Bi
