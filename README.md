@@ -194,7 +194,7 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 Para el Deploy del Modelo de Machine Learning, primerameramente se crea el modelo y se realiza la validacion usando las diferentes librerias el cual se especifica su proceso en el documento `Readme_ML.md`, una vez hecho lo anterior esta listo para su deploy, que se hará en primer medida de manera local usando `Streamlit` libreria de Python. Para ello se crea el archivo `app.py` que contendra las funciones correspondientes para la ejecución del modelo y también se crea el archivo `requeriments.txt` el cual especificas las dependencias usadas dentro del archivo `app.py`. Una vez se realizó lo anteriormente expuesto en la terminal de miniconda (terminal usada para este caso) se ejecutarán los siguientes comandos:
 
 `$ conda create -n ApiProyecto`    "Nota: Se aclara que para este caso ApiProyecto es el nombre de nuestro entorno virtual creado."
-`$ conda activate ApiProyecto`     "Este comando activate el entorno virtual anteriormente creado."
+`$ conda activate ApiProyecto`     "Este comando activa el entorno virtual anteriormente creado."
 `$ conda install python=3.10.12`   "Este comando instala la version de Python en el entorno virtual."
 `$ pip install -r requeriments.txt` " Este comando instala las dependecias contenidas en el archivo `requeriments.txt`"
 `$ streamlit run app.py`           "Este comando deploya la aplicación contenida en el archivo `app.py`."
