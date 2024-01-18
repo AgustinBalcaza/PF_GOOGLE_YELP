@@ -166,7 +166,7 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 #### Descripcion
 
 <p>En este proyecto, llevamos a cabo un proceso integral que abarca desde la obtención de datos hasta la visualización, utilizando diversas herramientas de Google Cloud Platform (GCP) y tecnologías de análisis de datos y aprendizaje automático.</p>
-<p><span style="text-decoration: underline;">Obtención de Datos:</span></p>
+<p>_Obtención de Datos:_</p>
 <p>Se obtienen conjuntos de datos de Google Maps y Yelp para alimentar nuestro análisis.</p>
 <p><strong>ETL local con Python:</strong></p>
 <p>Se realiza un proceso de Extracción, Transformación y Carga (ETL) de manera local utilizando Python y las bibliotecas pandas y numpy para limpiar y preparar los datos.</p>
