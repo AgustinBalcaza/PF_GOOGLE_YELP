@@ -35,7 +35,7 @@
         <li><a href="#Pipeline">Pipeline</a></li>
       </ul>
       <ul>
-        <li><a href="#Modelo Machine Learning y Deploy">Modelo Machine Learning y Deploy</a></li>
+        <li><a href="#Deploy ML">Deploy ML</a></li>
       </ul>
     </li> 
   </ol>
@@ -187,3 +187,18 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 <p><strong>Automatización con Cloud Scheduler:</strong></p>
 <p>Se utiliza Cloud Scheduler para generar un trabajo cron anual que ejecuta el proceso de web scraping, garantizando la actualización periódica de los datos.</p>
 <p>Este enfoque integrado aprovecha las capacidades de Google Cloud Platform para gestionar eficientemente cada etapa del proceso, desde la adquisición de datos hasta la implementación de modelos de aprendizaje automático y la visualización de resultados, proporcionando una solución robusta y escalable para análisis de datos avanzados.</p>
+
+
+### Deploy ML
+
+Para el Deploy del Modelo de Machine Learning, primerameramente se crea el modelo y se realiza la validacion usando las diferentes librerias el cual se especifica su proceso en el documento ´Readme_ML.md´, una vez hecho lo anterior esta listo para su deploy, que se hará en primer medida de manera local usando ´Streamlit´ libreria de Python. Para ello se crea el archivo ´app.py´ que contendra las funciones correspondientes para la ejecución del modelo y también se crea el archivo ´requeriments.txt´ el cual especificas las dependencias usadas dentro del archivo ´app.py´. Una vez se realizó lo anteriormente expuesto en la terminal de miniconda (terminal usada para este caso) se ejecutarán los siguientes comandos:
+
+´$ conda create -n ApiProyecto´    "Nota: Se aclara que para este caso ApiProyecto es el nombre de nuestro entorno virtual creado."
+´$ conda activate ApiProyecto´     "Este comando activate el entorno virtual anteriormente creado."
+´$ conda install python=3.10.12´   "Este comando instala la version de Python en el entorno virtual."
+´$ pip install -r requeriments.txt´ " Este comando instala las dependecias contenidas en el archivo requeriments.txt."
+´$ streamlit run app.py´           "Este comando deploya la aplicación contenida en el archivo ´app.py´."
+
+Para el proceso de producción del Modelo de Machine Learning se utiliza las herramientas de Cloud SDK y App Engine y todo su proceso se especifica en el documento ´Readme.md´ contenido en la carpeta ´Google Cloud Platform´.
+
+Nota: Los archivos utilizados en el deploy de manera local y en la producción se encuentra en la subcarpeta ´Cloud SDK y App Engine´ contenida en la carpeta de ´Google Cloud Platform´.
