@@ -156,5 +156,5 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 ### Pipeline
 
 <p align="center">
-  <img src="./assets/Pipeline Proyecto Google-Yelp.png" alt="Descripción de la imagen" width="500" height="400">
+  <img src="./assets/Pipeline Proyecto Google-Yelp.png" alt="Descripción de la imagen" width="650" height="450">
 </p>
