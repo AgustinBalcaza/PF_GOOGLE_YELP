@@ -152,3 +152,9 @@ Dada la prominencia que goza Google Cloud Platform (GCP), junto con el acceso a 
 - Data Warehouse: BigQuery en Google Cloud Platform
 - Machine Learning: Google Cloud SDK + App Engine
 - Visualización: Power Bi
+
+### Pipeline
+
+<p align="center">
+  <img src="./assets/Pipeline Proyecto Google-Yelp.png" alt="Descripción de la imagen" width="500" height="400">
+</p>
