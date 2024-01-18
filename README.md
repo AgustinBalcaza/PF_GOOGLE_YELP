@@ -95,7 +95,7 @@ En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología
 #### Sprint 3
 
 <p align="center">
-  <img src="./assets/gant3.jpg" alt="Descripción de la imagen" width="500" height="300">
+  <img src="./assets/gant3.jpg" alt="Descripción de la imagen" width="500" height="350">
 </p>
 
 Para la estimación de tiempo se elaboro un diagrama de gantt ubicado dentro de la carpeta assets/gant.pdf en el cual se establecio que tendra tres sprint con duración de una semana por cada sprint, del cual se tiene un comienzo el 2 de Enero y la finalización el 19 del mismo mes.
