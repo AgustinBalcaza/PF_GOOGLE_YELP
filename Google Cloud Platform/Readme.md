@@ -25,12 +25,12 @@ https://youtu.be/Trp1KBe-zFM
 
 Para el deployment y puesta en producción el modelo de Machine Learning en GCP se usará las tecnologias de Cloud SDK y App Engine. Para ello se instalará el SDK de Google Cloud Platform donde se ejecutarán los comandos de GCP para dicho proceso. Luego de tener instalado el SDK proseguiremos con la ejecución de los siguientes comandos:
 
-`*   Instalar GoogleCloudSDK`
-    `(https://cloud.google.com/sdk/docs/install)`
-`*   Ejecutar en la terminal:`
+<p>`*   Instalar GoogleCloudSDK`</p>
+    <p>`(https://cloud.google.com/sdk/docs/install)`</p>
+<p>`*   Ejecutar en la terminal:`</p>
 
-`$ gcloud init`
-`$ gcloud app deploy app.yaml --project "Nombre del proyecto"`
+<p>`$ gcloud init`</p>
+<p>`$ gcloud app deploy app.yaml --project "Nombre del proyecto"`</p>
 
 Nota: Para este caso el "Nombre del Proyecto" es: onyx-park-409513
 
