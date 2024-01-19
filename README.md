@@ -77,7 +77,7 @@ Conforme a los requerimientos del cliente, el proyecto se orienta hacia el ámbi
 ### Metodología de Trabajo
 
 <p align="center">
-  <img src="./assets/scrum.png" alt="Descripción de la imagen" width="400" height="400">
+  <img src="./assets/scrum1.png" alt="Descripción de la imagen" width="400" height="400">
 </p>
 
 En el desarrollo de nuestro proyecto, hemos decidido implementar la metodología Scrum, reconocida por su capacidad para gestionar proyectos de manera ágil y eficiente. Scrum proporciona un marco de trabajo flexible que se adapta a las necesidades cambiantes del proyecto, permitiendo una respuesta rápida a los requisitos del cliente y facilitando la entrega continua de productos de alta calidad. Esta metodología se basa en la colaboración constante entre los miembros del equipo, la transparencia en la comunicación y la capacidad de adaptación a medida que evolucionan los objetivos del proyecto. Al adoptar Scrum, buscamos optimizar la productividad, mejorar la comunicación interna, y asegurar una entrega más rápida y efectiva de soluciones que cumplan con las expectativas del cliente. La planificación y revisión regular de sprints en Scrum nos permitirán mantener un enfoque iterativo y centrado en el valor, maximizando así la satisfacción del cliente y la eficiencia del equipo de desarrollo.
