@@ -1,0 +1,19 @@
+
+- name: turismo
+  size: large
+  format: PARQUET
+  columns: []
+  schema:
+    - name: "year"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "visitors_state"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "revenue_state"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "state_id"
+      type: "INT64"
+      mode: "NULLABLE"
+
